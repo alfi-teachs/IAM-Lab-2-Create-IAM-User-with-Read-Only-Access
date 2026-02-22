@@ -1,4 +1,4 @@
-# IAM-Lab-2-Create-IAM-User-with-Read-Only-Access
+# IAM-Lab-3-Create-IAM-User-with-Read-Only-Access
 
 https://www.youtube.com/watch?v=xGzwaOrz5RU&t=132s
 
