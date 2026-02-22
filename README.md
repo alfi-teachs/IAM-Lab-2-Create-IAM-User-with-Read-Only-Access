@@ -1,4 +1,7 @@
 # IAM-Lab-2-Create-IAM-User-with-Read-Only-Access
+
+https://www.youtube.com/watch?v=xGzwaOrz5RU&t=132s
+
 creating user and attaching permission for IAM read acess
 
 Objective
