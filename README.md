@@ -4,8 +4,6 @@
 
 https://www.youtube.com/watch?v=xGzwaOrz5RU&t=7s
 
-creating user and attaching permission for IAM read acess
-
 Objective
 
 Create an IAM user
